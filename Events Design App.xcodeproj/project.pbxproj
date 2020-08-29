@@ -9,21 +9,41 @@
 /* Begin PBXBuildFile section */
 		9FC30B8624FABA4F007DD4D0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC30B8524FABA4F007DD4D0 /* AppDelegate.swift */; };
 		9FC30B8824FABA4F007DD4D0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC30B8724FABA4F007DD4D0 /* SceneDelegate.swift */; };
-		9FC30B8A24FABA4F007DD4D0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC30B8924FABA4F007DD4D0 /* ViewController.swift */; };
+		9FC30B8A24FABA4F007DD4D0 /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC30B8924FABA4F007DD4D0 /* HomeVC.swift */; };
 		9FC30B8D24FABA4F007DD4D0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FC30B8B24FABA4F007DD4D0 /* Main.storyboard */; };
 		9FC30B8F24FABA53007DD4D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FC30B8E24FABA53007DD4D0 /* Assets.xcassets */; };
 		9FC30B9224FABA53007DD4D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FC30B9024FABA53007DD4D0 /* LaunchScreen.storyboard */; };
+		9FC30B9E24FABBC4007DD4D0 /* ExtensionUivew.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC30B9C24FABBC3007DD4D0 /* ExtensionUivew.swift */; };
+		9FC30B9F24FABBC4007DD4D0 /* UILabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC30B9D24FABBC4007DD4D0 /* UILabel.swift */; };
+		9FC30BA224FABC14007DD4D0 /* EventCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC30BA124FABC14007DD4D0 /* EventCollectionViewCell.swift */; };
+		9FC30BA424FABC73007DD4D0 /* CalendarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC30BA324FABC73007DD4D0 /* CalendarView.swift */; };
+		9FC30BA624FABCA7007DD4D0 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC30BA524FABCA7007DD4D0 /* ListView.swift */; };
+		9FC30BA824FABCDA007DD4D0 /* EventListCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC30BA724FABCDA007DD4D0 /* EventListCollectionViewCell.swift */; };
+		9FC30BAA24FABDE1007DD4D0 /* BaseCollectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC30BA924FABDE1007DD4D0 /* BaseCollectionCell.swift */; };
+		9FC30BAD24FABFF9007DD4D0 /* DateCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC30BAC24FABFF9007DD4D0 /* DateCollectionViewCell.swift */; };
+		9FC30BAF24FAC107007DD4D0 /* ListMonthHeaderCollectionReusableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC30BAE24FAC107007DD4D0 /* ListMonthHeaderCollectionReusableView.swift */; };
+		9FC30BB124FAC204007DD4D0 /* ListDateHeaderCollectionReusableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC30BB024FAC204007DD4D0 /* ListDateHeaderCollectionReusableView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		9FC30B8224FABA4F007DD4D0 /* Events Design App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Events Design App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FC30B8524FABA4F007DD4D0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9FC30B8724FABA4F007DD4D0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		9FC30B8924FABA4F007DD4D0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		9FC30B8924FABA4F007DD4D0 /* HomeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeVC.swift; sourceTree = "<group>"; };
 		9FC30B8C24FABA4F007DD4D0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9FC30B8E24FABA53007DD4D0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9FC30B9124FABA53007DD4D0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9FC30B9324FABA53007DD4D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9FC30B9C24FABBC3007DD4D0 /* ExtensionUivew.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExtensionUivew.swift; sourceTree = "<group>"; };
+		9FC30B9D24FABBC4007DD4D0 /* UILabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UILabel.swift; sourceTree = "<group>"; };
+		9FC30BA124FABC14007DD4D0 /* EventCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventCollectionViewCell.swift; sourceTree = "<group>"; };
+		9FC30BA324FABC73007DD4D0 /* CalendarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarView.swift; sourceTree = "<group>"; };
+		9FC30BA524FABCA7007DD4D0 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
+		9FC30BA724FABCDA007DD4D0 /* EventListCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventListCollectionViewCell.swift; sourceTree = "<group>"; };
+		9FC30BA924FABDE1007DD4D0 /* BaseCollectionCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseCollectionCell.swift; sourceTree = "<group>"; };
+		9FC30BAC24FABFF9007DD4D0 /* DateCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateCollectionViewCell.swift; sourceTree = "<group>"; };
+		9FC30BAE24FAC107007DD4D0 /* ListMonthHeaderCollectionReusableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListMonthHeaderCollectionReusableView.swift; sourceTree = "<group>"; };
+		9FC30BB024FAC204007DD4D0 /* ListDateHeaderCollectionReusableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListDateHeaderCollectionReusableView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,13 +78,63 @@
 			children = (
 				9FC30B8524FABA4F007DD4D0 /* AppDelegate.swift */,
 				9FC30B8724FABA4F007DD4D0 /* SceneDelegate.swift */,
-				9FC30B8924FABA4F007DD4D0 /* ViewController.swift */,
+				9FC30B9B24FABB9C007DD4D0 /* utitlies */,
+				9FC30B9A24FABB96007DD4D0 /* view */,
+				9FC30B9924FABA61007DD4D0 /* controller */,
 				9FC30B8B24FABA4F007DD4D0 /* Main.storyboard */,
 				9FC30B8E24FABA53007DD4D0 /* Assets.xcassets */,
 				9FC30B9024FABA53007DD4D0 /* LaunchScreen.storyboard */,
 				9FC30B9324FABA53007DD4D0 /* Info.plist */,
 			);
 			path = "Events Design App";
+			sourceTree = "<group>";
+		};
+		9FC30B9924FABA61007DD4D0 /* controller */ = {
+			isa = PBXGroup;
+			children = (
+				9FC30B8924FABA4F007DD4D0 /* HomeVC.swift */,
+			);
+			path = controller;
+			sourceTree = "<group>";
+		};
+		9FC30B9A24FABB96007DD4D0 /* view */ = {
+			isa = PBXGroup;
+			children = (
+				9FC30BA024FABBF4007DD4D0 /* cell */,
+				9FC30BA324FABC73007DD4D0 /* CalendarView.swift */,
+				9FC30BA524FABCA7007DD4D0 /* ListView.swift */,
+			);
+			path = view;
+			sourceTree = "<group>";
+		};
+		9FC30B9B24FABB9C007DD4D0 /* utitlies */ = {
+			isa = PBXGroup;
+			children = (
+				9FC30B9C24FABBC3007DD4D0 /* ExtensionUivew.swift */,
+				9FC30B9D24FABBC4007DD4D0 /* UILabel.swift */,
+			);
+			path = utitlies;
+			sourceTree = "<group>";
+		};
+		9FC30BA024FABBF4007DD4D0 /* cell */ = {
+			isa = PBXGroup;
+			children = (
+				9FC30BAB24FABFF1007DD4D0 /* date */,
+				9FC30BA924FABDE1007DD4D0 /* BaseCollectionCell.swift */,
+				9FC30BA124FABC14007DD4D0 /* EventCollectionViewCell.swift */,
+				9FC30BA724FABCDA007DD4D0 /* EventListCollectionViewCell.swift */,
+			);
+			path = cell;
+			sourceTree = "<group>";
+		};
+		9FC30BAB24FABFF1007DD4D0 /* date */ = {
+			isa = PBXGroup;
+			children = (
+				9FC30BAC24FABFF9007DD4D0 /* DateCollectionViewCell.swift */,
+				9FC30BAE24FAC107007DD4D0 /* ListMonthHeaderCollectionReusableView.swift */,
+				9FC30BB024FAC204007DD4D0 /* ListDateHeaderCollectionReusableView.swift */,
+			);
+			path = date;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,9 +208,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9FC30B8A24FABA4F007DD4D0 /* ViewController.swift in Sources */,
+				9FC30BAA24FABDE1007DD4D0 /* BaseCollectionCell.swift in Sources */,
+				9FC30BAD24FABFF9007DD4D0 /* DateCollectionViewCell.swift in Sources */,
+				9FC30BA624FABCA7007DD4D0 /* ListView.swift in Sources */,
+				9FC30BB124FAC204007DD4D0 /* ListDateHeaderCollectionReusableView.swift in Sources */,
+				9FC30B9F24FABBC4007DD4D0 /* UILabel.swift in Sources */,
+				9FC30BA424FABC73007DD4D0 /* CalendarView.swift in Sources */,
+				9FC30BA224FABC14007DD4D0 /* EventCollectionViewCell.swift in Sources */,
+				9FC30B9E24FABBC4007DD4D0 /* ExtensionUivew.swift in Sources */,
+				9FC30BA824FABCDA007DD4D0 /* EventListCollectionViewCell.swift in Sources */,
+				9FC30B8A24FABA4F007DD4D0 /* HomeVC.swift in Sources */,
 				9FC30B8624FABA4F007DD4D0 /* AppDelegate.swift in Sources */,
 				9FC30B8824FABA4F007DD4D0 /* SceneDelegate.swift in Sources */,
+				9FC30BAF24FAC107007DD4D0 /* ListMonthHeaderCollectionReusableView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -294,7 +374,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.hosam.net.Events-Design-App";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -312,7 +392,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.hosam.net.Events-Design-App";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
