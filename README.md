@@ -1,13 +1,10 @@
 # Events-Design-App
 
-
-Simple only design offor Event  app with dumy data . layout done Programtically using code.
+Simple only design of two screen for travelling app with dumy data with some stories can be add later for real app.
+layout done Programtically using code
 Enjoy!
 
-# short demo video..
-
-https://j.gifs.com/ANZgY1.gif
+# short demo video.
 
 
-
-![Alt Text](https://j.gifs.com/ANZgY1.gif)
+![Alt Text](https://j.gifs.com/2xZm6A.gif)
